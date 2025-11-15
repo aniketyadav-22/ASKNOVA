@@ -16,6 +16,10 @@ langchain_huggingface
 arxiv
 wikipedia
 ollama
+torch
 langchain-ollama
 langchain-tools
 google-generativeai
+sentence-transformers
+transformers
+ddgs

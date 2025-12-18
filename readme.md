@@ -88,7 +88,7 @@ UI	Streamlit
 Document Parsing	PyPDFLoader / Docx2txtLoader / TextLoader
 📦 Installation
 1️⃣ Clone the repository
-git clone https://github.com/yourusername/asknova.git
+git clone https://github.com/aniketyadav-22/asknova.git
 cd asknova
 
 2️⃣ Create a virtual environment (recommended)
